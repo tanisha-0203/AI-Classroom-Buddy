@@ -1,0 +1,5 @@
+{
+  "name": "AI Classroom Buddy",
+  "description": "An industry-grade educational AI system that utilizes Retrieval-Augmented Generation to provide zero-hallucination, document-grounded answers for students.",
+  "requestFramePermissions": []
+}
